@@ -99,7 +99,7 @@ h1 {
               0 15px 25px 5px pink;
 }
 .home__bg {
-  background-image: url("/src/bg.webp");
+  background-image: url("../src/bg.webp");
   background-attachment: fixed;
   background-size: cover;
   background-position: center;

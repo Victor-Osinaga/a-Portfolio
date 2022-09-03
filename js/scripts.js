@@ -1,5 +1,5 @@
 const navbar = document.querySelector(".navbar");
-let form = document.getElementById('formSubmit')
+const form = document.getElementById('formSubmit')
 
 window.addEventListener("scroll", function () {
   window.scrollY > 100 && (navbar.style.background = `rgba(255, 192, 203, 0.575)`);
